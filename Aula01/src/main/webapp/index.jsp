@@ -8,6 +8,6 @@
 </head>
 <body>
 	<strong>Aula de hoje - 24/03/2022</strong>
-	<h3>Programação Web</h3>
+	<h3>ProgramaÃ§Ã£o Web - 3Âº semestre</h3>
 </body>
 </html>
